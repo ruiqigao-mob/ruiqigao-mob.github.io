@@ -3,7 +3,7 @@
 
 He is currently a Software Development Engineer at Amazon Web Services (AWS). He received his Master of Science in Computer Science from the University of California, San Diego, and his Bachelor of Science in Computer Science from Nanjing University.
 
-His technical interests lie in software engineering, cloud infrastructure, AI agents, large language models, retrieval-augmented generation systems, and distributed systems. At AWS, he has worked on AI-driven developer experience systems, including agentic code generation, multi-stage RAG pipelines, cloud-native workflow orchestration, and scalable serverless infrastructure.
+His technical interests lie in software engineering, cloud infrastructure, AI agents, large language models and distributed systems. 
 
 #### Contact
 

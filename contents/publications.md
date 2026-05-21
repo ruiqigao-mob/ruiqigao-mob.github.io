@@ -1,16 +1,25 @@
-#### Submitted
+#### AI and Cloud Infrastructure
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Spec2Code: Agentic Code Generation Platform for AWS SDK Examples</strong>  
+  Built an AI-driven code generation platform for AWS SDK code examples using multi-stage retrieval-augmented generation, Amazon Bedrock, AWS Knowledge Bases, AWS Kendra, Lambda, API Gateway, FIFO SQS, DynamoDB, S3, CloudFront, and AWS CDK. The system automated SDK example creation, improved best-practice compliance, and supported real-time AI workflow progress tracking.
 
-#### Published
+- <strong>LLM-Enhanced Code Quality and Test Generation System</strong>  
+  Developed a multi-checker validation and optimization system for generated code. Integrated AST-based code analysis with LLM-based reasoning to produce comprehensive pytest suites, improve method coverage, and reduce manual review effort during AI-assisted code generation.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+#### Full-Stack and Backend Systems
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>International Public Sentiment Analysis Platform</strong>  
+  Architected a large-scale public sentiment monitoring system that ingested news articles and trending topics through automated web crawling and LLM-based classification pipelines. Built backend services with Node.js, MongoDB, Scrapy-based crawlers, and distributed asynchronous job queues for scalable data ingestion and analysis.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Digital Healthcare Management System</strong>  
+  Developed front-end modules and backend services for a provincial healthcare management platform using Vue.js, Spring Boot, MySQL, RESTful APIs, caching, and query optimization. Improved system maintainability, transaction reliability, and performance under high-concurrency workloads.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+#### AI Applications
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Hematology AI Agent</strong>  
+  Fine-tuned domain-specific large language models and built model-serving microservices for hematology-related document understanding and clinical query support. Implemented data preprocessing pipelines, FastAPI endpoints, Spring Boot services, RabbitMQ task queues, MongoDB storage, and inference optimization with batching and quantization.
 
+#### Publication
+
+- Peng Hu, Changjiang Gao, <strong>Ruiqi Gao</strong>, Jiajun Chen, and Shujian Huang.  
+  <strong>Large Language Models are Limited in Out-of-Context Knowledge Reasoning</strong>. EMNLP 2024.
